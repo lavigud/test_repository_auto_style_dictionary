@@ -1,0 +1,1 @@
+# test_repository_auto_style_dictionary
